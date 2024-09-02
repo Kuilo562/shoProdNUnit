@@ -10,7 +10,7 @@ namespace shoProd.pr
     {
         public void Test2() {
             Console.WriteLine("hyeee");
-            Console.WriteLine("bye");
+            Console.WriteLine("klo");
         }
     }
 }
